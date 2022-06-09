@@ -2,4 +2,4 @@
 
 Descripción
 =========
-Página hecha con HMTL,CSS y Bootstrap.
+Página hecha con HMTL, CSS y Bootstrap.
